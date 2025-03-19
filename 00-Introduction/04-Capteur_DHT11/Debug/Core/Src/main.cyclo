@@ -1,0 +1,11 @@
+../Core/Src/main.c:65:6:delay	2
+../Core/Src/main.c:72:6:Display_Temp	1
+../Core/Src/main.c:81:6:Display_Rh	1
+../Core/Src/main.c:97:6:Set_Pin_Output	1
+../Core/Src/main.c:106:6:Set_Pin_Input	1
+../Core/Src/main.c:116:6:DHT11_Start	1
+../Core/Src/main.c:126:9:DHT11_Check_Response	4
+../Core/Src/main.c:144:9:DHT11_Read	5
+../Core/Src/main.c:167:5:main	1
+../Core/Src/main.c:259:6:SystemClock_Config	4
+../Core/Src/main.c:312:6:Error_Handler	1
