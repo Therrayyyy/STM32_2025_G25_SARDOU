@@ -1,0 +1,11 @@
+../Core/Src/main.c:106:5:main	1
+../Core/Src/main.c:167:6:initializeSensors	1
+../Core/Src/main.c:185:6:sendLoRaCommand	1
+../Core/Src/main.c:195:6:displayLCDMessage	1
+../Core/Src/main.c:207:6:processSHT31Data	1
+../Core/Src/main.c:250:6:processDHT22Data	1
+../Core/Src/main.c:281:6:processHX711Data	2
+../Core/Src/main.c:302:1:__io_putchar	1
+../Core/Src/main.c:308:6:HAL_GPIO_EXTI_Callback	2
+../Core/Src/main.c:320:6:SystemClock_Config	4
+../Core/Src/main.c:371:6:Error_Handler	1

@@ -1,0 +1,8 @@
+../Core/Src/main.c:87:5:main	16	static
+../Core/Src/main.c:148:6:initializePeripherals	8	static
+../Core/Src/main.c:162:6:sendLoRaCommand	16	static
+../Core/Src/main.c:172:6:clearBuffers	8	static
+../Core/Src/main.c:181:6:displayData	64	static
+../Core/Src/main.c:282:1:__io_putchar	16	static
+../Core/Src/main.c:292:6:SystemClock_Config	96	static
+../Core/Src/main.c:343:6:Error_Handler	4	static,ignoring_inline_asm

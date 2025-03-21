@@ -1,0 +1,5 @@
+../Core/Src/hx711.c:17:6:HX711_Start	8	static
+../Core/Src/hx711.c:26:9:getHX711	24	static
+../Core/Src/hx711.c:61:9:getAverageReading	24	static
+../Core/Src/hx711.c:71:6:calibrate	16	static
+../Core/Src/hx711.c:98:5:weigh	40	static
